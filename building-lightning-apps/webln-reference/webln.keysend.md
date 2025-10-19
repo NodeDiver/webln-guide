@@ -1,6 +1,6 @@
 # webln.keysend()
 
-Request the user to send a keysend payment. This is a spontaneous payment that does not require an invoice and only needs a destination public key and and amount.
+Request the user to send a keysend payment. This is a spontaneous payment that does not require an invoice and only needs a destination public key and amount.
 
 #### Method
 
@@ -23,9 +23,7 @@ interface KeysendArgs {
 * `amount`\
   The amount of satoshis you want to send as a stringified integer.
 * `customRecords`\
-  A `map<string, string>` of records that are appended to the payment. The key should be a stringified integer from the [TLV Registry](https://github.com/satoshisstream/satoshis.stream/blob/main/TLV\_registry.md). The value should be an _unencoded_, plain string. \
-  \
-  The WebLN provider should handle the encoding if necessary. If no custom records are needed, this parameter can be omitted.
+  A `map<string, string>` of records that are appended to the payment. The key should be a stringified integer from the [TLV Registry](https://github.com/satoshisstream/satoshis.stream/blob/main/TLV\_registry.md). The value should be an _unencoded_, plain string. The WebLN provider should handle the encoding if necessary. If no custom records are needed, this parameter can be omitted.
 
 #### Response
 

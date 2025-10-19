@@ -11,5 +11,5 @@ Presentation of the WebLN Guide and demonstration of the Lightning App Template
 #### Building Your First Lightning Web App
 
 {% embed url="https://www.youtube.com/watch?v=FT9MiC5pQh8" %}
-Building your frist Lightning web app
+Building your first Lightning web app
 {% endembed %}

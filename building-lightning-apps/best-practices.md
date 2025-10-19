@@ -2,7 +2,7 @@
 Description: >-
   What follows are suggestions on how best to integrate WebLN into your Bitcoin
   Lightning app. These aren't strict & hard rules, just ideas on how to prevent
-  your user from being frustrated or overwhelm
+  your user from being frustrated or overwhelmed
 ---
 
 # 🔆 Best Practices

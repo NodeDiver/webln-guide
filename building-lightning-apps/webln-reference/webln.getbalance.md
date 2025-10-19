@@ -3,7 +3,7 @@
 Fetch the balance of the current account.
 
 {% hint style="warning" %}
-This API may not be available on all [providers](https://www.webln.guide/ressources/webln-providers).&#x20;
+This API may not be available on all [providers](https://www.webln.guide/resources/webln-providers).&#x20;
 {% endhint %}
 
 #### Method

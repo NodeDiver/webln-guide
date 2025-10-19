@@ -5,7 +5,7 @@ Request to execute a [LNURL](https://github.com/lnurl/luds) request. The applica
 The method returns a promise which resolves once the LNURL flow is completed. It returns the last response from the LNURL server. For LNURL-pay requests it also contains payment information (preimage, payment hash) and for LNURL-auth requests it contains auth information (message, signature)&#x20;
 
 {% hint style="warning" %}
-This API may not be available on all [providers](https://www.webln.guide/ressources/webln-providers).&#x20;
+This API may not be available on all [providers](https://www.webln.guide/resources/webln-providers).&#x20;
 {% endhint %}
 
 #### Method

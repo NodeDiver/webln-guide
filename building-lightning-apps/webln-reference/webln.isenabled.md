@@ -3,7 +3,7 @@
 `webln.isEnabled()` allows you to check if webln is enabled without explicitly enabling it through `webln.enable()` (which may cause a confirmation popup in some providers)
 
 {% hint style="warning" %}
-This API may not be available on all [providers](https://www.webln.guide/ressources/webln-providers).&#x20;
+This API may not be available on all [providers](https://www.webln.guide/resources/webln-providers).&#x20;
 {% endhint %}
 
 #### Method&#x20;

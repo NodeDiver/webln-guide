@@ -1,11 +1,11 @@
-# 👨💻 👨💻 Getting Started
+# 👨‍💻 Getting Started
 
 ### Installation
 
 Browsers with WebLN capabilities provide APIs using a global JavaScript variable `window.webln` that can be used to interact with the connected Bitcoin Lightning wallet.&#x20;
 
-{% content-ref url="../ressources/webln-providers.md" %}
-[webln-providers.md](../ressources/webln-providers.md)
+{% content-ref url="../resources/webln-providers.md" %}
+[webln-providers.md](../resources/webln-providers.md)
 {% endcontent-ref %}
 
 **You don't need to add any library to your project.**
@@ -70,7 +70,7 @@ async function detectWebLNProvider(timeoutParam) {
 
 </details>
 
-### Enable WebLN <a href="#connecting-to-metamask" id="connecting-to-metamask"></a>
+### Enable WebLN <a href="#enable-webln" id="enable-webln"></a>
 
 Before you can work with any of the WebLN APIs you need call the method `enable()` :
 

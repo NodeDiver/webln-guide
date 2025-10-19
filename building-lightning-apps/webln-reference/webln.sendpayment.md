@@ -1,6 +1,6 @@
 # webln.sendPayment()
 
-Request that the user sends a payment for an invoice. The application needs to provide a [BOLT-11](https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md) invoice. For an invoiceless payment, use [webln.keysend](broken-reference).
+Request that the user sends a payment for an invoice. The application needs to provide a [BOLT-11](https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md) invoice. For an invoiceless payment, use [webln.keysend](webln.keysend.md).
 
 **Method**
 

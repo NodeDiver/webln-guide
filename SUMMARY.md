@@ -8,7 +8,7 @@
 
 ## Building Lightning Apps
 
-* [👨‍💻 👨💻 Getting Started](building-lightning-apps/getting-started.md)
+* [👨‍💻 Getting Started](building-lightning-apps/getting-started.md)
 * [💻 WebLN Reference](building-lightning-apps/webln-reference/README.md)
   * [🆕 webln.isEnabled()](building-lightning-apps/webln-reference/webln.isenabled.md)
   * [webln.enable()](building-lightning-apps/webln-reference/webln.enable.md)
@@ -28,14 +28,14 @@
 * [🛠️ Libraries and Tools](building-lightning-apps/libraries-and-tools.md)
 * [🔆 Best Practices](building-lightning-apps/best-practices.md)
 
-## Ressources
+## Resources
 
-* [⚡ WebLN Providers](ressources/webln-providers.md)
-* [🚀 Showcases](ressources/showcases.md)
-* [👩‍🏫 Tutorials](ressources/tutorials.md)
-* [🌐 Additional Resources](ressources/additional-ressources.md)
+* [📖 Glossary](contribute/glossary.md)
+* [⚡ WebLN Providers](resources/webln-providers.md)
+* [🚀 Showcases](resources/showcases.md)
+* [👩‍🏫 Tutorials](resources/tutorials.md)
+* [🌐 Additional Resources](resources/additional-resources.md)
 
 ## Contribute
 
 * [🏗️ Working Group & Guidelines](contribute/working-group-and-guidelines.md)
-* [📖 Glossary](contribute/glossary.md)
